@@ -10,6 +10,6 @@ The first study focuses on customer churn prediction and customer value-based pr
 
 The second study investigates the application of Automated Machine Learning (AutoML) to maritime disaster survival prediction. Using the Titanic and Estonia datasets, it evaluates AutoML-based model search and compares its predictive performance with conventional machine learning approaches under different search time budgets.
 
-This repository provides the implementation and supporting materials for both studies, including data preprocessing, model development, experimental evaluation, and relevant analysis procedures.
+This repository provides the implementation and supporting materials for both studies, including model development, experimental evaluation, and relevant analysis procedures.
 
 The purpose of this repository is to improve research transparency and facilitate the understanding and reproducibility of the experiments presented in the thesis.
